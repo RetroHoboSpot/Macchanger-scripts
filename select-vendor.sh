@@ -45,6 +45,11 @@ LG:00:1E:D1
 LG:00:1C:77
 ASUS:00:1A:70
 ASUS:00:24:8C
+PlayStation:00:04:1F
+xbox:00:50:F2    
+Nintendo:00:09:BF    
+SteamDeck:9C:B6:D0    
+
 EOF
 )
 
