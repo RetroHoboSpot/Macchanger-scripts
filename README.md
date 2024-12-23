@@ -51,3 +51,17 @@ This repository contains two bash scripts for generating and assigning randomize
    ```bash
    git clone https://github.com/RetroHoboSpot/Macchanger-scripts.git
    cd Macchanger-scripts
+
+2. Make it Exacutable
+
+   ```bash
+   chmod +x Random-vendor.sh select-vendor.sh
+3. Runnnnnn
+  Select Vendor 
+   ```bash
+   sudo ./select-vendor.sh
+
+Just send it and random Mac 
+   ```bash
+   sudo ./Random-vendor.sh
+   
